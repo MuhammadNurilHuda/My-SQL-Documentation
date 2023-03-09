@@ -12,6 +12,7 @@ My documentations with The Parch & Posey Database. Parch & Posey (not a real com
   - [Having](https://github.com/MuhammadNurilHuda/My-SQL-Documentation#having)
   - [Case](https://github.com/MuhammadNurilHuda/My-SQL-Documentation#case)
 - [Subqueries](https://github.com/MuhammadNurilHuda/My-SQL-Documentation#subqueries)
+- [Cheat Sheet](https://github.com/MuhammadNurilHuda/My-SQL-Documentation/blob/main/README.md#some-useful-cheat-sheet)
 
 ## Aggregations
 ### SUM
@@ -419,6 +420,6 @@ FROM (SELECT o.account_id, AVG(o.total_amt_usd) avg_amt
                                    FROM orders o)) temp_table;
 ```
 
-### **Some useful Cheat Sheet**
+## **Some useful Cheat Sheet**
 
 ![Logo](https://github.com/MuhammadNurilHuda/My-SQL-Documentation/blob/main/SQL%20Cheat%20Sheet.jpg)
