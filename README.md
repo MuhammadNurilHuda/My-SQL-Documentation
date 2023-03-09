@@ -4,14 +4,14 @@ My documentations with The Parch & Posey Database. Parch & Posey (not a real com
 
 
 **Contents:**
-- [Aggregations](https://github.com/MuhammadNurilHuda/My-Documentation/tree/main/Udacity/Intro%20to%20SQL%20-%20Nanodegree%20Qualification#aggregations)
-  - [Sum](https://github.com/MuhammadNurilHuda/My-Documentation/tree/main/Udacity/Intro%20to%20SQL%20-%20Nanodegree%20Qualification#sum)
-  - [Min, Max, Average](https://github.com/MuhammadNurilHuda/My-Documentation/tree/main/Udacity/Intro%20to%20SQL%20-%20Nanodegree%20Qualification#min-max-average)
-  - [Group By](https://github.com/MuhammadNurilHuda/My-Documentation/tree/main/Udacity/Intro%20to%20SQL%20-%20Nanodegree%20Qualification#group-by)
-  - [Distinct](https://github.com/MuhammadNurilHuda/My-Documentation/tree/main/Udacity/Intro%20to%20SQL%20-%20Nanodegree%20Qualification#distinct)
-  - [Having](https://github.com/MuhammadNurilHuda/My-Documentation/tree/main/Udacity/Intro%20to%20SQL%20-%20Nanodegree%20Qualification#having)
-  - [Case](https://github.com/MuhammadNurilHuda/My-Documentation/tree/main/Udacity/Intro%20to%20SQL%20-%20Nanodegree%20Qualification#case)
-
+- [Aggregations](https://github.com/MuhammadNurilHuda/My-SQL-Documentation#aggregations)
+  - [Sum](https://github.com/MuhammadNurilHuda/My-SQL-Documentation#sum)
+  - [Min, Max, Average](https://github.com/MuhammadNurilHuda/My-SQL-Documentation#min-max-average)
+  - [Group By](https://github.com/MuhammadNurilHuda/My-SQL-Documentation#group-by)
+  - [Distinct](https://github.com/MuhammadNurilHuda/My-SQL-Documentation#distinct)
+  - [Having](https://github.com/MuhammadNurilHuda/My-SQL-Documentation#having)
+  - [Case](https://github.com/MuhammadNurilHuda/My-SQL-Documentation#case)
+- [Subqueries](https://github.com/MuhammadNurilHuda/My-SQL-Documentation#subqueries)
 
 ## Aggregations
 ### SUM
