@@ -419,6 +419,6 @@ FROM (SELECT o.account_id, AVG(o.total_amt_usd) avg_amt
                                    FROM orders o)) temp_table;
 ```
 
-Some useful Cheat Sheet
+### **Some useful Cheat Sheet**
 
 ![Logo](https://github.com/MuhammadNurilHuda/My-SQL-Documentation/blob/main/SQL%20Cheat%20Sheet.jpg)
