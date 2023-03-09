@@ -418,3 +418,7 @@ FROM (SELECT o.account_id, AVG(o.total_amt_usd) avg_amt
     HAVING AVG(o.total_amt_usd) > (SELECT AVG(o.total_amt_usd) avg_all
                                    FROM orders o)) temp_table;
 ```
+
+Some useful Cheat Sheet
+
+[SQL Cheat Sheet](https://drive.google.com/file/d/1_IKVigOYCShspohEAcVc2SzRzbGuK9GT/view?usp=sharing)
