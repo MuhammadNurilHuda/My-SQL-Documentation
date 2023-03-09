@@ -421,4 +421,4 @@ FROM (SELECT o.account_id, AVG(o.total_amt_usd) avg_amt
 
 Some useful Cheat Sheet
 
-[SQL Cheat Sheet](https://drive.google.com/file/d/1_IKVigOYCShspohEAcVc2SzRzbGuK9GT/view?usp=sharing)
+[SQL Cheat Sheet](https://github.com/MuhammadNurilHuda/My-SQL-Documentation/blob/main/SQL%20Cheat%20Sheet.jpg)
